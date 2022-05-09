@@ -1,3 +1,4 @@
 rootProject.name = 'demo-spring-boot-starter'
 include 'event-starter'
 include 'event-app'
+include 'rabbitmq-starter'

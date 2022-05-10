@@ -3,3 +3,6 @@ include 'event-starter'
 include 'event-app'
 include 'rabbitmq-starter'
 include 'rabbitmq-app'
+include 'greet-starter'
+include 'greet-app'
+

@@ -10,7 +10,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @date 2022.05.09
  */
 @Data
-@ConfigurationProperties(prefix = "myrabbit")
+@ConfigurationProperties(prefix = "myrabbit-starter")
 public class UserProperties {
     public String rabbitMqExchange;
     public String rabbitMqQueue;
